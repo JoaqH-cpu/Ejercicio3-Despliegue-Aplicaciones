@@ -15,14 +15,14 @@ Web de Náutica Bahía: tienda y alquiler de material náutico en Puerto de Maza
 
 ## Cómo ejecutarlo en local
 
-1. Clona el repositorio:
+     1. Clona el repositorio:
 
-```bash
-   git clone https://github.com/JoaqH-cpu/Ejercicio3-Despliegue-Aplicaciones.git
-   cd Ejercicio3-Despliegue-Aplicaciones
-```
+        ```bash
+        git clone ...
+        cd ...
+        ```
 
-2. Abre `index.html` en el navegador.
+     2. Abre `index.html` en el navegador.
 
 ## Tecnologías
 
